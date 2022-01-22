@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "compta",
+    "slug": "compta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "compta"
+}
