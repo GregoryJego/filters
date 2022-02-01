@@ -1,0 +1,22 @@
+export const colors = {
+    yellowLight: '#FFF5BF',
+    yellow: '#FAA11C',
+    pinkLight: '#FFECE6',
+    pink: '#FD755F',
+blueLight: '#E0F6FE',
+blue: '#11ABEC',
+black: '#001A25',
+grey: '#636970',
+gray: '#58676D',
+white: '#FFFFFF',
+separator: '#DCE4ED',
+red:'#8B0000',
+redLight:'#FF0000',
+purple:'#800080',
+purpleLight:'#9370DB',
+green:'#008000',
+greenLight:'#9ACD32',
+default:"#11ABEC",
+defaultLight: '#E0F6FE',
+background:'#F1F7FC'
+}
